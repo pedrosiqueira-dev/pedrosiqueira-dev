@@ -36,14 +36,6 @@ Gosto de transformar ideias em soluções funcionais e bem estruturadas.
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrosiqueira-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosiqueira-dev&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objetivo
 
 Busco oportunidades para atuar como Desenvolvedor Web / Full Stack, contribuindo com soluções eficientes, escaláveis e bem estruturadas.
